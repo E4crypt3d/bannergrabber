@@ -1,7 +1,7 @@
 # bannergrabber
 Python3
 
-Python Modules needed required.
+Python Modules required.
 
 
 socket
