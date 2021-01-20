@@ -1,2 +1,5 @@
 # bannergrabber
-Nothing much just learning
+Python3
+Python Modules needed required.
+socket
+Sys
