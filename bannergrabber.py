@@ -2,9 +2,7 @@
 import socket
 import sys
 soc = socket.socket()
-print('''               LITTLE BANNER GRABBER
-                        LG҉B҉
-                Created by @E4crypt3d''')
+# By E4crypt3d
 ip = input("Enter the IP: ")
 port = str(input('Port No: '))
 try:
